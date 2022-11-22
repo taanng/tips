@@ -1,7 +1,7 @@
 1、设置环境
 
 安装node ，并设置npm 国内镜像环境  npm config set registry https://registry.npm.taobao.org
-
+vscode 安装扩展插件 node-snippets 和 javascript code snippets便于代码提示
 2、创建基于typescript的node项目
 
 ```bash
