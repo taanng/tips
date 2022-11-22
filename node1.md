@@ -38,7 +38,13 @@ npx tsc --init --rootDir src --outDir build --esModuleInterop --resolveJsonModul
   }
 }
 ```
+4、运行node
 
+npm run  dev   //运行src/index.ts入口文件，文件变化后重新运行
+
+npm run build   //编译文件
+
+npm run start   //运行编译后的文件
 
 
 
